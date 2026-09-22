@@ -9,7 +9,7 @@ Every figure ties back to the 10-K, so the view is decision-grade, not direction
 | File | What it is |
 |------|------------|
 | `Financial_Statements_Dashboard.pbix` | The Power BI file. Open in Power BI Desktop. |
-| `Dashboard_Details.pdf` | Full page-by-page export of the report. View without Power BI. |
+| `Financial_Statements_Portfolio.pdfs.pdf` | Full page-by-page export of the report. View without Power BI. |
 | `README.md` | This file. |
 
 ## Coverage
