@@ -61,4 +61,4 @@ Power BI Desktop, Power Query (M), DAX, SEC EDGAR XBRL API.
 
 Built entirely from public SEC filings (EDGAR). All figures are reported GAAP; no confidential data is used. Portfolio demonstration.
 
-**Ankit Kale** · Buildoventa · ankitskale@gmail.com
+**Ankit Kale** · contact@ankitkale.comm
